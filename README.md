@@ -7,7 +7,7 @@ This uses the following libraries and dependencies :<br />
 -> YoloV8 for Object Detection<br />
 ## Dataset
 For Ingredient Detection : <br />
-https://www.kaggle.com/datasets/nishchaygarg/food-ingredients-dataset?rvi=1
+https://www.kaggle.com/datasets/nishchaygarg/food-ingredients-dataset?rvi=1 <br />
 For Recipies from Detected Ingredients : <br /> 
 https://www.kaggle.com/datasets/saldenisov/recipenlg/data
                                            
