@@ -18,5 +18,7 @@ https://www.kaggle.com/datasets/saldenisov/recipenlg/data
 - yolov8.ipnyb<br />
   - Used for training the Model<br />
 - search.ipynb<br />
-  - Used for recommending recipies
+  - Used for recommending recipies<br />
+##Final Weights
+best.pt contains the final weights <br />
 
