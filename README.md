@@ -5,3 +5,9 @@ This uses the following libraries and dependencies :<br />
 -> Basic steps of Data Augmentation using Keras<br />
 -> GroundedSAM for auto-annotations if images<br />
 -> YoloV8 for Object Detection<br />
+## Dataset
+For Ingredient Detection : <br />
+https://www.kaggle.com/datasets/nishchaygarg/food-ingredients-dataset?rvi=1
+For Recipies from Detected Ingredients : <br /> 
+https://www.kaggle.com/datasets/saldenisov/recipenlg/data
+                                           
