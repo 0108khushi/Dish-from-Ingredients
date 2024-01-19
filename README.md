@@ -11,7 +11,7 @@ https://www.kaggle.com/datasets/nishchaygarg/food-ingredients-dataset?rvi=1 <br 
 For Recipies from Detected Ingredients : <br /> 
 https://www.kaggle.com/datasets/saldenisov/recipenlg/data
 ## Notebook Directory
-- [dataaugmentation.ipynb](https://github.com/0108khushi/Dish-from-Ingredients/blob/main/Notebooks/dataaug)<br />
+- [dataaugmentation.ipynb](https://github.com/0108khushi/Dish-from-Ingredients/blob/main/Notebooks/dataaugmentation.ipynb)<br />
   - Used for Data Augmention<br />
 - [grounded-sam.ipynb](https://github.com/0108khushi/Dish-from-Ingredients/blob/main/Notebooks/grounded-sam.ipynb)<br />
   - Used for Auto Annotating Dataset<br />
