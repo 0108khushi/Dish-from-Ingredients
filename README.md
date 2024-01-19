@@ -1,7 +1,7 @@
 # Dish-from-Ingredients
-The project aims to suggest dish from the image of available ingredients.
-This uses the following libraries and dependencies :
--> Bing Image Downloader for Dataset
--> Basic steps of Data Augmentation using Keras
--> GroundedSAM for auto-annotations if images
--> YoloV8 for Object Detection
+The project aims to suggest dish from the image of available ingredients.<br />
+This uses the following libraries and dependencies :<br />
+-> Bing Image Downloader for Dataset<br />
+-> Basic steps of Data Augmentation using Keras<br />
+-> GroundedSAM for auto-annotations if images<br />
+-> YoloV8 for Object Detection<br />
