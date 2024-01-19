@@ -11,17 +11,17 @@ https://www.kaggle.com/datasets/nishchaygarg/food-ingredients-dataset?rvi=1 <br 
 For Recipies from Detected Ingredients : <br /> 
 https://www.kaggle.com/datasets/saldenisov/recipenlg/data
 ## Notebook Directory
-- dataaugmentation.ipynb<br />
+- [dataaugmentation.ipynb](https://github.com/0108khushi/Dish-from-Ingredients/blob/main/Notebooks/dataaug)<br />
   - Used for Data Augmention<br />
-- grounded-sam.ipynb<br />
+- [grounded-sam.ipynb](https://github.com/0108khushi/Dish-from-Ingredients/blob/main/Notebooks/grounded-sam.ipynb)<br />
   - Used for Auto Annotating Dataset<br />
-- yolov8.ipnyb<br />
+- [yolov8.ipnyb](https://github.com/0108khushi/Dish-from-Ingredients/blob/main/Notebooks/yolov8.ipynb)<br />
   - Used for training the Model<br />
-- search.ipynb<br />
+- [search.ipynb](https://github.com/0108khushi/Dish-from-Ingredients/blob/main/Notebooks/search.ipynb)<br />
   - Used for recommending recipies<br />
   
 ## Final Weights
-best.pt contains the final weights <br />
+[best.pt](https://github.com/0108khushi/Dish-from-Ingredients/blob/main/best.pt) contains the final weights <br />
 ## Results
 Following is the link to the final results : <br /> 
 https://drive.google.com/file/d/1Piw-cMs7X48Sb6e0Ai_R2QAN8y8Vofsk/view?usp=drivesdk<br />
