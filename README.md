@@ -20,6 +20,6 @@ https://www.kaggle.com/datasets/saldenisov/recipenlg/data
 - search.ipynb<br />
   - Used for recommending recipies<br />
   
-##Final Weights
+## Final Weights
 best.pt contains the final weights <br />
 
